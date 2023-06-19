@@ -22,9 +22,9 @@ require (
 	github.com/srwiley/oksvg v0.0.0-20220731023508-a61f04f16b76
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef
 	github.com/tdewolff/parse/v2 v2.5.26
-	golang.org/x/image v0.0.0-20220902085622-e7cb96979f69
+	golang.org/x/image v0.5.0
 	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.7.0
 )
 
 require (
